@@ -27,5 +27,7 @@ public class Proyecto_final {
         System.out.println("\nCliente: " + nombre);
         System.out.println("Total compras: " + totalCompras);
         System.out.println("Promedio compras: " + promedioCompras);
+        System.out.println("Gracias por su compra.");
+
     }
 }
